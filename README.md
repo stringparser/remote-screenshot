@@ -1,9 +1,9 @@
 
 > Toy project!
 
-## remote screenshot
+# remote screenshot
 
-Take an screenshot from a dom node and send it back to the server
+Take an screenshot from a DOM node and send it back to the server
 
 ## license
 
